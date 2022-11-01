@@ -32,7 +32,7 @@ use multiple package download at same time
 install dnf dragora
     #sudo dnf install dnfdragora
 KDE connect should be installed next
-steam should be installed [optional opener]
+steam should be installed [optional]
 hacking tools should be installed [optional]
 Devoptools will be installed [optional] 
 bleach bit should be automated for every six month to clean entire system
