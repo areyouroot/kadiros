@@ -35,6 +35,8 @@ auto backup based on time and based on update should be installed
 
 the update should be done while the setup is installing Fedora
 
+    #sudo dnf update && sudo dnf upgrade -y
+
 installer graphical
 
 install preloaderr
@@ -67,4 +69,4 @@ bleach bit should be automated for every six month to clean entire system
 
 install grub
 
-genome with desktop icons and dark mode
+KDE with desktop icons and dark mode
