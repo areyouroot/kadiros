@@ -69,4 +69,4 @@ bleach bit should be automated for every six month to clean entire system
 
 install grub
 
-KDE with desktop icons and dark mode
+Gnome with desktop icons and dark mode
